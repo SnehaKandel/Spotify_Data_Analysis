@@ -6,6 +6,7 @@ This project is all about exploring and analyzing a Spotify dataset that include
 
 **Project Steps**
 **1. Data Exploration**
+
  The dataset contains attributes such as:
 
 Artist: The performer of the track.
